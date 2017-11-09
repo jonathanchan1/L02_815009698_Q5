@@ -1,8 +1,8 @@
 /* 
  * File:   app_cfg.h
- * Author: emman
+ * Author: 815009698
  *
- * Created on October 27, 2017, 4:16 PM
+ * Created on November 1, 2017, 4:35 PM
  */
 
 #ifndef APP_CFG_H
